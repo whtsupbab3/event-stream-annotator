@@ -1,0 +1,4 @@
+numpy
+pillow
+faery
+h5py
